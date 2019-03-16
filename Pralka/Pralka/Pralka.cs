@@ -8,7 +8,7 @@ namespace Pralka
 {
     public class Pralka   //// TEST GITHUB 
 
-        ////  Kolejna próba
+        
         
     {
 
