@@ -7,6 +7,9 @@ using System.Threading.Tasks;
 namespace Pralka
 {
     public class Pralka   //// TEST GITHUB 
+
+        ////  Kolejna próba
+        
     {
 
 
